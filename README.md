@@ -94,7 +94,8 @@ Then open:
 ```bash
 [
   http://127.0.0.1:5000
-]```
+]
+```
 
 
 
@@ -188,8 +189,6 @@ Swap requests
 - **Response:**
 ```user,match,swap request
 ```
-
-[Add more endpoints as needed...]
 
 ---
 
