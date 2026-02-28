@@ -1,4 +1,3 @@
-```
 <p align="center">
   <img width="1280" height="640" alt="img" src="https://github.com/user-attachments/assets/4025b357-a6c9-4406-bd2c-ca8677b2c9fd" />
 </p>
@@ -250,4 +249,3 @@ This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LI
 ---
 
 Made with ❤️ at TinkerHub
-```
