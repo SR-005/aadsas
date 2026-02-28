@@ -163,7 +163,7 @@ Request status is updated and displayed*
     Skill Wanted 
 - **Response:**
 ```
-```redirect: /dashboard
+redirect: /dashboard
 ```
 
 **POST /login**
@@ -173,14 +173,14 @@ Request status is updated and displayed*
     Password
 - **Response:**
 ```
-```redirect: /dashboard
+redirect: /dashboard
 ```
 
 **POST /logout**
 - **Description:** Logs out current user.
 - **Response:**
 ```
-```redirect: /
+redirect: /
 ```
 
 **POST /edit_profile**
@@ -190,7 +190,7 @@ Request status is updated and displayed*
     Skill Wanted
 - **Response:**
 ```
-```redirect: updated '/dashboard'
+redirect: updated '/dashboard'
 ```
 
 **GET /dashboard**
@@ -200,7 +200,7 @@ Request status is updated and displayed*
             Swap requests
 - **Response:**
 ```
-```/dashboard
+redirect: /dashboard
 ```
 
 **GET /send_request/<username>**
@@ -209,7 +209,7 @@ Request status is updated and displayed*
     username
 - **Response:**
 ```
-```redirect: /dashboard
+redirect: /dashboard
 ```
 
 **GET /accept_request/<req_id>**
@@ -218,7 +218,7 @@ Request status is updated and displayed*
     req_id
 - **Response:**
 ```
-```redirect: /dashboard
+redirect: /dashboard
 ```
 
 **GET /reject_request/<req_id>**
@@ -227,7 +227,7 @@ Request status is updated and displayed*
     req_id
 - **Response:**
 ```
-```redirect: /dashboard
+redirect: /dashboard
 ```
 
 **GET /chat/<username>**
