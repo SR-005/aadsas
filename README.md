@@ -87,7 +87,8 @@ pip install flask
   git clone https://github.com/vandhanaunni543-eng/skillHER
   cd skillher
   python app.py
-]```
+]
+```
 
 Then open:
 ```bash
