@@ -1,5 +1,6 @@
-10<p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
+```
+<p align="center">
+  <img width="1280" height="640" alt="img" src="https://github.com/user-attachments/assets/4025b357-a6c9-4406-bd2c-ca8677b2c9fd" />
 </p>
 
 # skillHER 🎯
@@ -204,12 +205,7 @@ python app.py
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
-
-*Explain what the video demonstrates - key features, user flow, technical highlights*
-
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+https://drive.google.com/file/d/1NQpg05jesuaDOXqhZp_lCYDUDUQwcbrW/view?usp=drivesdk
 
 ---
 
@@ -254,3 +250,4 @@ This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LI
 ---
 
 Made with ❤️ at TinkerHub
+```
